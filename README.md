@@ -54,6 +54,7 @@ Pronto! Você pode visualizar o ignews através do endereço http://localhost:30
 - [TailwindCSS](https://tailwindcss.com/)
 - [Headless CMS (Content Management System) with GraphCMS](https://graphcms.com/)
 - [GraphQL](https://graphql.org/)
+- [GraphQL Code Generator](https://www.graphql-code-generator.com/)
 - [Apollo Client](https://www.apollographql.com/docs/react/get-started/)
 - [Phosphor Icons React](https://phosphoricons.com/)
 - [Classnames](https://github.com/JedWatson/classnames)
